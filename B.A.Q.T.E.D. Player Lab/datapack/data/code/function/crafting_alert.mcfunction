@@ -1,0 +1,1 @@
+tellraw @s "§bFun Fact: craft three iron blocks together to make a diamond!"

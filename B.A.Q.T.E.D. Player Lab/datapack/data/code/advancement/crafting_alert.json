@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "impossible"
+      }
+    },
+    "rewards": {
+      "function": "code:crafting_alert"
+    }
+  }
+  
